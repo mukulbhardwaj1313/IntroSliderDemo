@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="Page2Title">Slide One</string>
+    <string name="Page3Title">Slide Two</string>
+    <string name="Page4Title">Slide Three</string>
+    <string name="Page5Title">Slide Four</string>
+    <string name="Page1Message">Welcome to the era of Intro slider. Please feel free to provide your suggestions</string>
+    <string name="Page2Message">Looooooooooooooooong description heeeeeeeeereeeeee</string>
+    <string name="Page3Message">Simple implementation</string>
+    <string name="Page4Message">keeps your messages safe<![CDATA[<br/>]]>from hacker attacks</string>
+    <string name="Page5Message">has no limits on the size of<![CDATA[<br/>]]>your media and chats</string>
+    <string name="title_not_found_message">Titles not provided. Use method provideTitles() to provide titles</string>
+    <string name="resource_not_found">Resource provided in title image is not a drawable</string>
+    <string name="resource_not_found_bg">Resource provided in background image is not a drawable</string>
+
+</resources>

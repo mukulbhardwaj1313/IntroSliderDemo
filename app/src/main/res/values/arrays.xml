@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="random_imgs">
+        <item>@drawable/welc1</item>
+        <item>@drawable/welc2</item>
+        <item>@drawable/welc3</item>
+        <item>@drawable/welc1</item>
+        <item>@drawable/welc3</item>
+    </integer-array>
+
+    <integer-array name="title_images">
+        <item>@drawable/ic_analytics</item>
+        <item>@drawable/ic_infinity_logo</item>
+        <item>@drawable/ic_analytics</item>
+        <item>@drawable/ic_lock_2</item>
+        <item>@drawable/intro5</item>
+    </integer-array>
+
+    <integer-array name="titles">
+        <item>@string/app_name</item>
+        <item>@string/Page2Title</item>
+        <item>@string/Page3Title</item>
+        <item>@string/Page4Title</item>
+        <item>@string/Page5Title</item>
+
+    </integer-array>
+
+    <integer-array name="messages">
+        <item>@string/Page1Message</item>
+        <item>@string/Page2Message</item>
+        <item>@string/Page3Message</item>
+        <item>@string/Page4Message</item>
+        <item>@string/Page5Message</item>
+
+    </integer-array>
+</resources>
